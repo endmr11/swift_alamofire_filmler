@@ -1,0 +1,6 @@
+framework module Pods_udemy_alamofire_fimler {
+  umbrella header "Pods-udemy_alamofire_fimler-umbrella.h"
+
+  export *
+  module * { export * }
+}
